@@ -7,7 +7,7 @@
 //   ]);
 // };
 
-const Pet = (props) =>{
+const Pets = (props) =>{
     return (
         <div>
             <h2>{props.name}</h2>
@@ -17,4 +17,4 @@ const Pet = (props) =>{
     )
 }
 
-export default Pet;
+export default Pets;
